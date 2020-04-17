@@ -10,7 +10,7 @@ or
 
 Click `Clone or download` and `Download ZIP` to get this repo.
 
-## Install the packages
+### Install the packages
 1. Open a terminal
 2. Go to `nodejsmongodb` folder then
 ```console

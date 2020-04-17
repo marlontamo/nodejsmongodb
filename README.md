@@ -1,4 +1,4 @@
-# Node.js with MongoDB Tutorial by bossROD
+# Simple API Using Node, Express and mongodb
 learning to create simple restful api using node, express and mongodb
 ## Getting Started:
 
